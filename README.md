@@ -11,7 +11,7 @@ API url, you should be able to use the application now! Enjoy!
 
 DynamoDB | Lambda | Amplify | Express | React | Node
 
-## Helpful Docs
+## Helpful Docss
 
 ### Material UI
 
